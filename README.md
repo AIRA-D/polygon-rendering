@@ -1,4 +1,11 @@
-A widget application developed using the Qt framework that determines, by user clicks, whether a polygon is convex or not.    
+A widget application developed using the Qt framework that determines, by user clicks, whether a polygon is convex or not.  
+
+Приложение-виджет, разработанное с использованием *фреймворка Qt*, определяющее по щелчку мыши, является ли многоугольник выпуклым или нет.    
+
+# Как это работает
+
+При запуске приложения пользователь видит пустую область с кнопкой. 
+Кликами на пустой области, пользователь может "нарисовать" некоторый многоугольник и проверить, является ли он выпуклым и наоборот. 
 
 # How it works
 
