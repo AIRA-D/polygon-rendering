@@ -16,7 +16,7 @@ void Form1::mousePressEvent(QMouseEvent *event) {
 void Form1::paintEvent(QPaintEvent *event) {
     QPainter painter(this);
 
-    painter.setPen(Qt::black);
+    painter.setPen(Qt::magenta);
 
     // Проверяем, что количество вершин многоугольника больше 2
     if (Points.size() >= 3) {
