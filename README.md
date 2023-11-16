@@ -6,7 +6,7 @@ A widget application developed using the Qt framework that determines, by user c
 When launching the application, the user may observe an empty area with a single copka.
 By clicking on the empty area the user can "draw" some polygon and check if it is convex.
 
-
+------
 
 Приложение-виджет, разработанное с использованием *фреймворка Qt*, определяющее по щелчку мыши, является ли многоугольник выпуклым или нет.    
 
