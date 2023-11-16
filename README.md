@@ -7,3 +7,4 @@ By clicking on the empty area the user can "draw" some polygon and check if it i
 
 
 ![image](https://github.com/AIRA-D/polygon-rendering/assets/100157397/6734bbb0-009c-459e-9333-f58348dda3c9)
+![image](https://github.com/AIRA-D/polygon-rendering/assets/100157397/8a5049fd-8eff-474e-9e04-09b9d7a84bb6)
